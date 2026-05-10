@@ -1,0 +1,162 @@
+{
+  "/opt/data/workspace/wiki/graphify": {
+    "mtime": 1778197514.015948,
+    "hash": "f8667f81a07f5ad564efa834f670fd25"
+  },
+  "/opt/data/workspace/wiki/AGENTS.md": {
+    "mtime": 1778237820.8874876,
+    "hash": "771e9c4a0ffdb8670a193ad322dd7b73"
+  },
+  "/opt/data/workspace/wiki/log.md": {
+    "mtime": 1778381475.276933,
+    "hash": "9e06a48ed6fd96512ca37ff35cba0b82"
+  },
+  "/opt/data/workspace/wiki/CLAUDE.md": {
+    "mtime": 1778237734.1339467,
+    "hash": "46e5d5cafd4b2776ef13434dfb66420b"
+  },
+  "/opt/data/workspace/wiki/index.md": {
+    "mtime": 1778381400.2888725,
+    "hash": "3f9eb883c84764a8e9e7ac9a25c70feb"
+  },
+  "/opt/data/workspace/wiki/SCHEMA.md": {
+    "mtime": 1778381550.7997706,
+    "hash": "92e47ce68185a406e5042e4e5c2cdde5"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-05-stitch2-AI\u8bbe\u8ba1.md": {
+    "mtime": 1778195941.9207196,
+    "hash": "d566a737407522c00604e57608600585"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-06-codex-cli-goal\u547d\u4ee4.md": {
+    "mtime": 1778195943.4417207,
+    "hash": "20da54de06691e1a3ac539bc16156ec7"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-07-windsurf-codemaps.md": {
+    "mtime": 1778195944.9587216,
+    "hash": "53c984ee211f1758856134a3afb94438"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-05-cursor-debug.md": {
+    "mtime": 1778195946.4789743,
+    "hash": "c2bdd0740cf5464d34db94a753cb9203"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-06-anthropic-prompting-best-practices.md": {
+    "mtime": 1778195947.999724,
+    "hash": "7deac3be57607414a54e0e67b26167e3"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-06-hereos-ai.md": {
+    "mtime": 1778195949.521725,
+    "hash": "9a668c9950c5d41c36b730e005db895e"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-09-hermes-operator-pattern.md": {
+    "mtime": 1778343497.7058506,
+    "hash": "610a23ab0f2547e2994af0f387653bc1"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-05-gitnexus.md": {
+    "mtime": 1778195951.042726,
+    "hash": "0ff0ca3deb55c9bb6d1d8f03571abcbf"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-07-supabase-firebase.md": {
+    "mtime": 1778195952.5667272,
+    "hash": "253f52f5c84825db91bd7fb2cdfc6d00"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-05-pretext-text-measurement.md": {
+    "mtime": 1778195954.0877283,
+    "hash": "8c5341cc5a0a007addd24308e2fc61bf"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-05-\u6697\u58f3AI\u5ba4\u5185\u8bbe\u8ba1.md": {
+    "mtime": 1778195955.607663,
+    "hash": "47ea089f8af4380d1349e8a52dd3eb95"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-05-claude-code-operator\u6a21\u5f0f.md": {
+    "mtime": 1778195957.117912,
+    "hash": "29a22f1bfbb5eeafb50b0833913fae49"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-07-browser-harness.md": {
+    "mtime": 1778195958.6377316,
+    "hash": "2b962232252b21aeae25d4e875b253cd"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-05-graphify.md": {
+    "mtime": 1778195960.1537325,
+    "hash": "c88574035f62f84b06343f205851584c"
+  },
+  "/opt/data/workspace/wiki/raw/articles/2026-05-05-obscura-browser.md": {
+    "mtime": 1778195961.669559,
+    "hash": "d64b26f4856dab3ef9a96ed0acaa4757"
+  },
+  "/opt/data/workspace/wiki/concepts/codex-cli-goal.md": {
+    "mtime": 1778381533.6387134,
+    "hash": "3a79b98cb392ddc0df6c9654a66f0b95"
+  },
+  "/opt/data/workspace/wiki/concepts/hermes-subagent-orchestration.md": {
+    "mtime": 1778344365.5947247,
+    "hash": "659fb492dc8bf96f609158f97589a45f"
+  },
+  "/opt/data/workspace/wiki/concepts/hermes-cron-headless.md": {
+    "mtime": 1778344414.0993323,
+    "hash": "ccbaf0e1da56d0feb0ac6772503d93bf"
+  },
+  "/opt/data/workspace/wiki/concepts/hermes-parallel-isolation.md": {
+    "mtime": 1778344339.638713,
+    "hash": "3bf21213149bff5eac88b35ade8ed945"
+  },
+  "/opt/data/workspace/wiki/concepts/hermes-kanban-orchestrator.md": {
+    "mtime": 1778344382.992316,
+    "hash": "66779ba7b101f9e7d7881cd6a919315d"
+  },
+  "/opt/data/workspace/wiki/concepts/hermes-agentic-workflows.md": {
+    "mtime": 1778344484.9403696,
+    "hash": "9d6b9082a205862c321c39ca6c8bf9f0"
+  },
+  "/opt/data/workspace/wiki/concepts/anthropic-prompting-best-practices.md": {
+    "mtime": 1778381567.0393453,
+    "hash": "7b6e1ab816dcb2cedef61f4f8c5e5e79"
+  },
+  "/opt/data/workspace/wiki/comparisons/stitch2-vs-\u6697\u58f3ai.md": {
+    "mtime": 1778381329.8507326,
+    "hash": "9d938fb882ea9ecdc0e8a543472e4192"
+  },
+  "/opt/data/workspace/wiki/comparisons/supabase-vs-firebase.md": {
+    "mtime": 1778381623.7186124,
+    "hash": "c21154169f101cbfa77a0c1a7600d758"
+  },
+  "/opt/data/workspace/wiki/entities/cursor-debug.md": {
+    "mtime": 1778381502.928416,
+    "hash": "0a1b307a4c0274d8a23a175ef06c68d6"
+  },
+  "/opt/data/workspace/wiki/entities/browser-harness.md": {
+    "mtime": 1778381684.070637,
+    "hash": "89c897f9c3a8cd726dcb4f9a3745bfd2"
+  },
+  "/opt/data/workspace/wiki/entities/pretext.md": {
+    "mtime": 1778381239.4007425,
+    "hash": "72dd4109836925f3e6cadb99409f69f4"
+  },
+  "/opt/data/workspace/wiki/entities/gitnexus.md": {
+    "mtime": 1778381239.3967426,
+    "hash": "c62e9aae4721e846265cf1842bea0b2b"
+  },
+  "/opt/data/workspace/wiki/entities/hereos-ai.md": {
+    "mtime": 1778381239.3687425,
+    "hash": "fae71f05375ac0451fc645c28184900b"
+  },
+  "/opt/data/workspace/wiki/entities/windsurf-codemaps.md": {
+    "mtime": 1778381641.8660674,
+    "hash": "80490bf0b55d41f5738d66e477596b11"
+  },
+  "/opt/data/workspace/wiki/entities/stitch2.md": {
+    "mtime": 1778381239.3877425,
+    "hash": "4639af29822fd26dc16d2e2b924325b3"
+  },
+  "/opt/data/workspace/wiki/entities/\u6697\u58f3ai.md": {
+    "mtime": 1778381239.3687425,
+    "hash": "c7b9e85a6724383b7b6f9e72206d6492"
+  },
+  "/opt/data/workspace/wiki/entities/graphify.md": {
+    "mtime": 1778381663.6115146,
+    "hash": "7b08f186202fa1966f09ce9a99696f4e"
+  },
+  "/opt/data/workspace/wiki/entities/obscura-browser.md": {
+    "mtime": 1778204821.6128666,
+    "hash": "03e285f6cdbf92b2a415dafbeef4b3e2"
+  }
+}
