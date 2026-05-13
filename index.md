@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-10 | Total pages: 19
+> Last updated: 2026-05-14 | Total pages: 21
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -13,6 +13,7 @@
 - [[graphify]] — 知识图谱工具（Karpathy LLM Wiki 产品化）
 - [[hereos-ai]] — 世界首个 GUI 交互驱动的 Agent
 - [[obscura-browser]] — Rust 无头浏览器引擎
+- [[rtk-token-killer]] — Rust CLI 代理，减少 LLM token 消耗 60-90%
 - [[pretext]] — Cheng Lou 的纯 TS 文本测量库（比 DOM 快 300-600x）
 - [[stitch2]] — Google Labs AI UI 设计工具（Figma 竞品）
 - [[windsurf-codemaps]] — Windsurf Codemaps 代码地图功能
@@ -21,6 +22,7 @@
 
 - [[anthropic-prompting-best-practices]] — Anthropic 官方提示工程最佳实践
 - [[codex-cli-goal]] — Codex CLI /goal 目标生命周期管理
+- [[codex-vs-claude-code-operator]] — Codex 工作流模式 vs Claude Code Operator：三维对应分析 + 完整对比
 - [[hermes-agentic-workflows]] — Hermes Agentic 工作流模式：四维框架总览
 - [[hermes-cron-headless]] — Cron 流水线：Headless 模式的持久化扩展
 - [[hermes-kanban-orchestrator]] — Kanban 编排器：Lead-Teammate 的 Hermes 实现
@@ -34,7 +36,7 @@
 
 ## Queries
 
-## Raw Sources (16 files)
+## Raw Sources (18 files)
 - `2026-05-05-claude-code-operator模式.md` — Claude Code operator 模式详解
 - `2026-05-05-cursor-debug.md` — Cursor 调试笔记
 - `2026-05-05-graphify.md` — Graphify 知识图谱工具介绍
@@ -50,3 +52,5 @@
 - `2026-05-07-supabase-firebase.md` — Supabase vs Firebase 比较
 - `2026-05-07-browser-harness.md` — Browser Harness 浏览器自动化
 - `2026-05-09-hermes-operator-pattern.md` — Hermes Operator 模式深度分析：四维框架 vs Claude Code
+- `2026-05-11-codex-subagents-worktrees.md` — Codex Subagents + Worktrees 官方文档摘要
+- `2026-05-14-rtk-token-killer.md` — rtk Rust CLI 代理，LLM token 优化工具

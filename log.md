@@ -91,3 +91,25 @@
 
 - 运行 `graphify update .`
 - 图谱更新：90→368 nodes, 94→334 edges, 11→47 communities
+
+## [2026-05-11] ingest | Codex Subagents + Worktrees 官方文档 + 对比分析
+
+- 新建 1 个 raw source：`raw/articles/2026-05-11-codex-subagents-worktrees.md`
+  - 来源：developers.openai.com/codex/subagents + developers.openai.com/codex/worktrees
+- 新建 1 个概念页面：`concepts/codex-vs-claude-code-operator.md`
+  - 类型：比较（Codex vs Claude Code Operator 三维对应）
+  - 内容：三维对照总览、Worktrees/Subagents/Lead-Teammate 逐一对比、完整对比矩阵
+- 更新 index.md（total pages: 19 → 20, raw sources: 16 → 17）
+- 运行 `graphify update .`：428 nodes, 392 edges, 49 communities
+
+## [2026-05-14] ingest | rtk-ai/rtk — Rust Token Killer
+- 新 source: `raw/articles/2026-05-14-rtk-token-killer.md`
+  - 来源: https://github.com/rtk-ai/rtk
+  - GitHub API 获取仓库元数据 + release info + readme 原文
+  - Stars: 47,271 / Forks: 2,862 / License: Apache-2.0 / Language: Rust
+- 新建 1 个实体页面: `entities/rtk-token-killer.md`
+  - 类型：工具实体（AI 编码工具 / LLM token 优化）
+  - 核心内容：rtk 工作原理（四大压缩策略）、100+ 命令覆盖、13 个 AI 工具集成
+  - 与其它 Rust 工具关联：[[obscura-browser]]、[[pretext]]、[[hermes-agentic-workflows]]
+  - Hermes 集成：`rtk init --agent hermes` → Python 插件适配器
+- 更新 index.md（total pages: 20 → 21, raw sources: 17 → 18）
