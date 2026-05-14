@@ -124,3 +124,15 @@
   - 核心内容：grill-me 工作机制（逐个追问、多选项引导、自动查代码、决策树遍历、总结输出）、安装方式、适用场景、变体 grill-me-fix
   - 关联：[[claude-code]]、[[skill-system]]、[[hermes-subagent-orchestration]]、[[anthropic-prompting-best-practices]]
 - 更新 index.md（total pages: 21 → 22, raw sources: 18 → 19）
+
+## [2026-05-14] ingest | mindfold-ai/Trellis — AI Coding Agent Harness
+- 新 source: `raw/articles/2026-05-14-trellis-harness.md`
+  - 来源: https://github.com/mindfold-ai/Trellis
+  - GitHub API 获取仓库元数据 + README 全文 + 目录结构 + commit 历史 + npm 数据
+  - Stars: 7,893 / Forks: 431 / License: AGPL-3.0 / Language: TypeScript
+  - npm 月下载: 16,730 / 版本: v0.5.15 (stable) + v0.6.0-beta.14
+- 新建 1 个实体页面: `entities/trellis-harness.md`
+  - 类型：框架实体（AI 编码工具 / 跨平台协作 / 工作流）
+  - 核心内容：四阶段工作流 (Plan→Implement→Verify→Finish)、分域规范注入、任务结构化管理、项目记忆、14 平台适配
+  - 关联：[[rtk-token-killer]]、[[hermes-agentic-workflows]]、[[hermes-subagent-orchestration]]、[[graphify]]、[[codex-vs-claude-code-operator]]
+- 更新 index.md（total pages: 22 → 23, raw sources: 19 → 20）

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-14 | Total pages: 22
+> Last updated: 2026-05-14 | Total pages: 23
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -15,6 +15,7 @@
 - [[hereos-ai]] — 世界首个 GUI 交互驱动的 Agent
 - [[obscura-browser]] — Rust 无头浏览器引擎
 - [[rtk-token-killer]] — Rust CLI 代理，减少 LLM token 消耗 60-90%
+- [[trellis-harness]] — 跨平台 AI Coding Agent 协作框架（规范注入+任务驱动+多平台）
 - [[pretext]] — Cheng Lou 的纯 TS 文本测量库（比 DOM 快 300-600x）
 - [[stitch2]] — Google Labs AI UI 设计工具（Figma 竞品）
 - [[windsurf-codemaps]] — Windsurf Codemaps 代码地图功能
@@ -37,7 +38,7 @@
 
 ## Queries
 
-## Raw Sources (19 files)
+## Raw Sources (20 files)
 - `2026-05-05-claude-code-operator模式.md` — Claude Code operator 模式详解
 - `2026-05-05-cursor-debug.md` — Cursor 调试笔记
 - `2026-05-05-graphify.md` — Graphify 知识图谱工具介绍
@@ -55,4 +56,5 @@
 - `2026-05-09-hermes-operator-pattern.md` — Hermes Operator 模式深度分析：四维框架 vs Claude Code
 - `2026-05-11-codex-subagents-worktrees.md` — Codex Subagents + Worktrees 官方文档摘要
 - `2026-05-14-rtk-token-killer.md` — rtk Rust CLI 代理，LLM token 优化工具
+- `2026-05-14-trellis-harness.md` — Trellis 跨平台 AI Coding Agent 协作框架
 - `2026-05-14-grill-me-skill.md` — grill-me Claude Code skill，追问决策树
