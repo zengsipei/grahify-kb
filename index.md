@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-14 | Total pages: 21
+> Last updated: 2026-05-14 | Total pages: 22
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -10,6 +10,7 @@
 - [[cursor-debug]] — Cursor 调试技巧与常见问题
 - [[暗壳ai]] — 国内专业室内 AI 设计平台（ark.art）
 - [[gitnexus]] — 零服务器代码智能引擎，代码库→知识图谱→MCP
+- [[grill-me]] — Claude Code skill：无情追问决策树，逼清计划每个分支
 - [[graphify]] — 知识图谱工具（Karpathy LLM Wiki 产品化）
 - [[hereos-ai]] — 世界首个 GUI 交互驱动的 Agent
 - [[obscura-browser]] — Rust 无头浏览器引擎
@@ -36,7 +37,7 @@
 
 ## Queries
 
-## Raw Sources (18 files)
+## Raw Sources (19 files)
 - `2026-05-05-claude-code-operator模式.md` — Claude Code operator 模式详解
 - `2026-05-05-cursor-debug.md` — Cursor 调试笔记
 - `2026-05-05-graphify.md` — Graphify 知识图谱工具介绍
@@ -54,3 +55,4 @@
 - `2026-05-09-hermes-operator-pattern.md` — Hermes Operator 模式深度分析：四维框架 vs Claude Code
 - `2026-05-11-codex-subagents-worktrees.md` — Codex Subagents + Worktrees 官方文档摘要
 - `2026-05-14-rtk-token-killer.md` — rtk Rust CLI 代理，LLM token 优化工具
+- `2026-05-14-grill-me-skill.md` — grill-me Claude Code skill，追问决策树

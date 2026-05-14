@@ -113,3 +113,14 @@
   - 与其它 Rust 工具关联：[[obscura-browser]]、[[pretext]]、[[hermes-agentic-workflows]]
   - Hermes 集成：`rtk init --agent hermes` → Python 插件适配器
 - 更新 index.md（total pages: 20 → 21, raw sources: 17 → 18）
+
+## [2026-05-14] ingest | RobMitt/grill-me-skill — AI 追问决策树 skill
+- 新 source: `raw/articles/2026-05-14-grill-me-skill.md`
+  - 来源: https://github.com/RobMitt/grill-me-skill
+  - GitHub API 获取仓库元数据 + README.md + SKILL.md 全文
+  - Stars: 9 / Forks: 4 / License: 无 / Language: 无（skill 文件）
+- 新建 1 个实体页面: `entities/grill-me.md`
+  - 类型：工具实体（AI 编码 skill / 决策树追问）
+  - 核心内容：grill-me 工作机制（逐个追问、多选项引导、自动查代码、决策树遍历、总结输出）、安装方式、适用场景、变体 grill-me-fix
+  - 关联：[[claude-code]]、[[skill-system]]、[[hermes-subagent-orchestration]]、[[anthropic-prompting-best-practices]]
+- 更新 index.md（total pages: 21 → 22, raw sources: 18 → 19）
