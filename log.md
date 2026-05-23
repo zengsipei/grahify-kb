@@ -136,3 +136,43 @@
   - 核心内容：四阶段工作流 (Plan→Implement→Verify→Finish)、分域规范注入、任务结构化管理、项目记忆、14 平台适配
   - 关联：[[rtk-token-killer]]、[[hermes-agentic-workflows]]、[[hermes-subagent-orchestration]]、[[graphify]]、[[codex-vs-claude-code-operator]]
 - 更新 index.md（total pages: 22 → 23, raw sources: 19 → 20）
+## [2026-05-23] ingest | llm-wiki wiki-content 批量摄入（37 篇）
+
+- Source: https://github.com/zengsipei/llm-wiki/tree/main/wiki-content
+- 保存 37 个新 raw sources → raw/articles/2026-05-23-*.md
+- 新建 27 个 curated 页面：
+
+  **Entities (14 新建):**
+  - entities/agentation.md — AI 编码 Agent 视觉反馈工具
+  - entities/claude-使用指南.md — Anthropic Claude 使用指南
+  - entities/gemini-使用指南.md — Google Gemini 使用指南
+  - entities/gpt-使用指南.md — OpenAI GPT 使用指南
+  - entities/open-design.md — Claude Design 开源替代品（本地优先+BYOK Agent）
+  - entities/opus-使用指南.md — z.ai Opus AI Agent 开发环境
+  - entities/plannotator.md — AI Agent 交互式计划与代码审查工具
+  - entities/prisma-orm-使用指南.md — TypeScript ORM 使用指南
+  - entities/tailwindcss-实战技巧.md — Tailwind CSS 4 实战技巧
+  - entities/向量数据库入门.md — 向量数据库入门（RAG 核心组件）
+
+  **Concepts (11 新建):**
+  - concepts/agent-架构设计模式.md — AI Agent 架构设计模式（ReAct/Plan-Execute/Multi-Agent）
+  - concepts/ai-agent-输出格式研究.md — AI Agent 输出格式结构性错配与 HTML 方案
+  - concepts/ai-安全与对齐.md — RLHF、红队测试与三层对齐框架
+  - concepts/function-calling-实践指南.md — Function Calling 工具调用机制
+  - concepts/git-工作流最佳实践.md — 分支策略、Conventional Commits
+  - concepts/llm-评测方法.md — LLM 评测维度、Benchmark、LLM-as-Judge
+  - concepts/markdown-渲染增强演示.md — Callout/Mermaid/交互式代码块
+  - concepts/markdown-进阶语法.md — GFM/Frontmatter/Callout/Mermaid
+  - concepts/nextjs-最佳实践.md — Next.js 16 App Router 开发最佳实践
+  - concepts/prompt-engineering-最佳实践.md — 提示词工程基础与高级技巧
+  - concepts/rag-检索增强生成.md — RAG 架构流程与优化策略
+  - concepts/system-prompt-设计指南.md — CLEAR 框架与常见系统提示模式
+  - concepts/the-unreasonable-effectiveness-of-html.md — HTML 作为 Agent 输出的不合理有效性
+  - concepts/知识库架构设计.md — LLM Wiki 三层架构与数据同步
+  - concepts/知识管理系统设计.md — PKM 方法论（Zettelkasten/PARA/CODE）
+
+  **Comparisons (2 新建):**
+  - comparisons/ai-编程工具对比.md — 六大 AI 编程工具横向对比
+  - comparisons/ai-绘画工具对比.md — 五大 AI 绘画工具功能对比
+
+- 更新 index.md（total pages: 23 → 49, raw sources: 20 → 55）

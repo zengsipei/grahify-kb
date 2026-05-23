@@ -1,10 +1,10 @@
 ---
 title: pretext
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-23
 type: entity
 tags: [ai-tool, tool, browser, framework, open-source]
-sources: [raw/articles/2026-05-05-pretext-text-measurement.md]
+sources: [raw/articles/2026-05-05-pretext-text-measurement.md, raw/articles/2026-05-23-pretext-纯-js-文本测量库.md]
 ---
 
 # Pretext

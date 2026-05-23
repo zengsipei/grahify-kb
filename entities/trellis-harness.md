@@ -1,10 +1,10 @@
 ---
 title: Trellis — AI Coding Agent Harness
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-23
 type: entity
 tags: [ai-tool, coding-assistant, framework, workflow, agent, open-source, multi-agent]
-sources: [raw/articles/2026-05-14-trellis-harness.md]
+sources: [raw/articles/2026-05-14-trellis-harness.md, raw/articles/2026-05-23-mindfold-aitrellis-ai-coding-agent-harness.md]
 confidence: high
 ---
 

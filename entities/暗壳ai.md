@@ -1,10 +1,10 @@
 ---
 title: 暗壳ai
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-23
 type: entity
 tags: [ai-tool, design-tool, agent, company]
-sources: [raw/articles/2026-05-05-暗壳AI室内设计.md]
+sources: [raw/articles/2026-05-05-暗壳AI室内设计.md, raw/articles/2026-05-23-暗壳ai-室内ai设计平台.md]
 ---
 
 # 暗壳AI

@@ -1,10 +1,10 @@
 ---
 title: stitch2
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-23
 type: entity
 tags: [ai-tool, design-tool, agent, open-source]
-sources: [raw/articles/2026-05-05-stitch2-AI设计.md]
+sources: [raw/articles/2026-05-05-stitch2-AI设计.md, raw/articles/2026-05-23-google-stitch-20-ai-ui-设计工具.md]
 ---
 
 # Stitch 2.0

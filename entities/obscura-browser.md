@@ -1,10 +1,10 @@
 ---
 title: Obscura
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-23
 type: entity
 tags: [tool, browser, rust, headless, ai-agent, crawler, stealth]
-sources: [raw/articles/2026-05-05-obscura-browser.md]
+sources: [raw/articles/2026-05-05-obscura-browser.md, raw/articles/2026-05-23-obscura-rust-无头浏览器引擎.md]
 confidence: high
 ---
 

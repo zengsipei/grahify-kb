@@ -1,10 +1,10 @@
 ---
 title: Hermes Agentic 工作流模式
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-05-23
 type: concept
 tags: [operator-mode, agent, workflow, claude-code]
-sources: [raw/articles/2026-05-05-claude-code-operator模式.md, raw/articles/2026-05-09-hermes-operator-pattern.md]
+sources: [raw/articles/2026-05-05-claude-code-operator模式.md, raw/articles/2026-05-09-hermes-operator-pattern.md, raw/articles/2026-05-23-hermes-agent-中的-operator-模式三维框架与-claude-code-的深度对比.md]
 confidence: high
 ---
 

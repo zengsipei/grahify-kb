@@ -1,10 +1,10 @@
 ---
 title: Supabase vs Firebase
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-23
 type: comparison
 tags: [comparison, database, backend]
-sources: [raw/articles/2026-05-07-supabase-firebase.md]
+sources: [raw/articles/2026-05-07-supabase-firebase.md, raw/articles/2026-05-23-supabase-vs-firebase.md]
 ---
 
 # Supabase vs Firebase 对比

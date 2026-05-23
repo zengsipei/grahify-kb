@@ -1,10 +1,10 @@
 ---
 title: rtk — Rust Token Killer
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-23
 type: entity
 tags: [ai-tool, coding-assistant, rust, token-optimization, developer-tools, open-source]
-sources: [raw/articles/2026-05-14-rtk-token-killer.md]
+sources: [raw/articles/2026-05-14-rtk-token-killer.md, raw/articles/2026-05-23-rtk-airtk-rust-token-killer.md]
 confidence: high
 ---
 

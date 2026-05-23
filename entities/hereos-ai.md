@@ -1,10 +1,10 @@
 ---
 title: hereos-ai
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-23
 type: entity
 tags: [ai-tool, agent, gui, open-source]
-sources: [raw/articles/2026-05-06-hereos-ai.md]
+sources: [raw/articles/2026-05-06-hereos-ai.md, raw/articles/2026-05-23-hereos-gui-交互驱动的-agent.md]
 ---
 
 # HereOS

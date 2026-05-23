@@ -1,10 +1,10 @@
 ---
 title: Anthropic Prompting Best Practices
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-23
 type: concept
 tags: [prompt-engineering, anthropic, claude-code]
-sources: [raw/articles/2026-05-06-anthropic-prompting-best-practices.md]
+sources: [raw/articles/2026-05-06-anthropic-prompting-best-practices.md, raw/articles/2026-05-23-anthropic-claude-prompting-best-practices.md]
 ---
 
 # Anthropic Prompting Best Practices
